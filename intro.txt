@@ -1,0 +1,7 @@
+hi!
+
+This is our portfolio website repo.
+
+dev hub for the website.
+
+happy coding :)
