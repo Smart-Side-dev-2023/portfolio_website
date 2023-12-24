@@ -1,9 +1,0 @@
-hi!
-
-This is our portfolio website repo.
-
-dev hub for the website.
-
-happy coding :)
-
-hi this is the first text.
