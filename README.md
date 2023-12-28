@@ -1,5 +1,4 @@
 # portfolio_website
-# [Your Name]'s Portfolio
 
 Welcome to my portfolio website! This repository contains the code and assets for my personal portfolio site.
 
